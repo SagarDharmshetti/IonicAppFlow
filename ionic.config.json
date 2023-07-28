@@ -1,5 +1,8 @@
 {
-  "name": "BlankProject",
-  "integrations": {},
-  "type": "angular"
+  "name": "&frnds",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "a8dadd85"
 }

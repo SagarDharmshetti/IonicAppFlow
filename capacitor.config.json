@@ -1,0 +1,6 @@
+{
+	"appId": "com.nfrnds.application",
+	"appName": "&frnds",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
