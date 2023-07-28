@@ -64,6 +64,7 @@
     "com-sarriaroman-photoviewer": "github:tobiasmuecksch/photoviewer",
     "cordova-plugin-android-permissions": "^1.1.5",
     "cordova-plugin-app-version": "^0.1.14",
+    "cordova-plugin-ionic": "5.5.3",
     "cordova-plugin-request-location-accuracy": "^2.3.0",
     "firebase": "^8.10.0",
     "fuse.js": "^6.6.2",

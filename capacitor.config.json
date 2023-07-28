@@ -1,6 +1,6 @@
 {
-	"appId": "com.nfrnds.application",
-	"appName": "&frnds",
-	"webDir": "www",
-	"bundledWebRuntime": false
+  "appId": "com.nfrnds.application",
+  "appName": "&frnds",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }

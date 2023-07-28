@@ -20,6 +20,7 @@ dependencies {
     implementation "com.google.android.gms:play-services-location:16.+"
 }
 apply from: "../../node_modules/com-sarriaroman-photoviewer/src/android/photoviewer.gradle"
+apply from: "../../node_modules/cordova-plugin-ionic/src/android/cordovapluginionic.gradle"
 
 if (hasProperty('postBuildExtras')) {
   postBuildExtras()
