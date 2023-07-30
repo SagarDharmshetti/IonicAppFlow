@@ -1,6 +1,6 @@
 {
   "appId": "com.nfrnds.application",
-  "appName": "&frnds",
+  "appName": "demoProject",
   "webDir": "www",
   "bundledWebRuntime": false
 }
