@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">&amp;frnds</string>
-    <string name="title_activity_main">&amp;frnds</string>
-    <string name="package_name">com.nfrnds.application</string>
-    <string name="custom_url_scheme">com.nfrnds.application</string>
+  <string name="app_name">&amp;frnds</string>
+  <string name="title_activity_main">&amp;frnds</string>
+  <string name="package_name">com.nfrnds.application</string>
+  <string name="custom_url_scheme">com.nfrnds.application</string>
+  <string name="ionic_app_id">a8dadd85</string>
+  <string name="ionic_channel_name">id-test</string>
+  <string name="ionic_update_method">auto</string>
 </resources>
